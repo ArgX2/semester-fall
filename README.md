@@ -8,7 +8,6 @@
 [구글](https://google.com)
 오픈소스기반기초설계 수업용
 <html>
-  <title>테스트 타이틀</title>
   <body>
     <h1>H1타이틀 테스트</h1>
   </body>
